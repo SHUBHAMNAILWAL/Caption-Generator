@@ -54,3 +54,12 @@ caption-generator/
 │
 
 └── venv/ # Virtual environment (ignored)
+---
+
+## 👨‍💻 Author
+
+**Shubham Nailwal**
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
